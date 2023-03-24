@@ -1,2 +1,2 @@
 # MMRWE
-Wearable - MR System
+Wearable - MR System prototype for Master of Design thesis
