@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e220d115581f2544bbb91c3d2f95ee04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - script: {instanceID: 0}
+  - current: {fileID: 2100000, guid: d36eece960abfe443ae62832d8cd1304, type: 2}
+  - glowing_yellow: {fileID: 2100000, guid: cc1e35c63f7c82a488131914e7d5fca7, type: 2}
+  - glowing_blue: {fileID: 2100000, guid: 4958a8d59fb34184bb3134753e1307c3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
